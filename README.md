@@ -1,4 +1,4 @@
-# web-demo
+# python-demo
 > 🍉🍉🍉 用来学习并实战 python 项目~
 
 ## ⌨️ Development
