@@ -6,7 +6,7 @@ message = "Hello World"
 print(message)
 
 
-# 多行打印
+# 三个引号 用于 多行打印  
 print("""Hello
 World""")
 
